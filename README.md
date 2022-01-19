@@ -1,5 +1,7 @@
 # Snapchat Wiki
 
+If something is undocumented and you want it documented ask in the [Discord](https://discord.gg/cMy2dgXH28)
+
 [Wiki](https://github.com/killed/Snapchat-Wiki/wiki)
 
 [Discord](https://discord.gg/cMy2dgXH28)
