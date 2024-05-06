@@ -1,7 +1,5 @@
 # Snapchat Wiki
 
-[Telegram](https://t.me/lololololidk)
-<br>
 [Wiki](https://github.com/killed/Snapchat-Wiki/wiki)
 
 ## Disclaimer
