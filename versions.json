@@ -1,4 +1,64 @@
 {
+    "12.87.0.44":
+    {
+        "info":
+        {
+            "version": "12.87.0.44",
+            "versionCode": 133922,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "fqtp/w",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "zo/o",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "lh/f",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "xu/c",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "iphx/zy",
+                "fields":
+                {
+                    "name": "f",
+                    "value": [46, 88, 15, 47, -91, -79, -41, 113, -102, -69, 9, 120, 65, -122, -121, 69, -96, -67, 24, -62, -29, 1, -58, 16, -59, 118, -11, -54, 107, -36, 26, -58, -55, -2, 17, 42, 111, 17, -38, -90, 29, -61, -122, -29, -60, 98, 81, -34, -116, 125, 94, -13, 98, -5, 3, -50, -67, -70, -56, -14, 53, -117, -53, 66]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "b": "([B Ljava/lang/String;)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "([B)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "lr/qc",
+                "method": "a"
+            }
+        }
+    },
     "12.86.0.44":
     {
         "info":
