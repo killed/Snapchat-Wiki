@@ -1,4 +1,64 @@
 {
+    "12.88.0.43":
+    {
+        "info":
+        {
+            "version": "12.88.0.43",
+            "versionCode": 135272,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "bmi/zfr",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "xpj/o",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "uri/k",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "avq/gup",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "kdm/k",
+                "fields":
+                {
+                    "name": "i",
+                    "value": [-49, -42, 74, -5, 117, 12, -83, -58, 114, 7, -69, -41, -17, -5, -19, 119, 123, 113, 24, -77, -97, 38, 60, -85, -50, 68, -75, -24, 18, 63, 25, -26, -117, 75, 49, -60, -36, -71, 64, -121, -122, 75, 57, 122, -78, -6, 29, 41, -39, 80, 82, 39, -46, 104, 95, -127]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "([B)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "([B Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "lop/e",
+                "method": "a"
+            }
+        }
+    },
     "12.87.0.44":
     {
         "info":
@@ -1087,7 +1147,7 @@
             "versionCode": 109072,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": true
         },
         "classes":
@@ -1147,7 +1207,7 @@
             "versionCode": 108122,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": true
         },
         "classes":
@@ -1207,7 +1267,7 @@
             "versionCode": 103164,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": true
         },
         "classes":
@@ -1447,7 +1507,7 @@
             "versionCode": 102748,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": true
         },
         "classes":
@@ -1927,7 +1987,7 @@
             "versionCode": 102132,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": true
         },
         "classes":
@@ -3708,7 +3768,7 @@
             "versionCode": 99585,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": false
         },
         "classes":
@@ -3761,7 +3821,7 @@
             "versionCode": 99545,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": false
         },
         "classes":
@@ -3867,7 +3927,7 @@
             "versionCode": 99400,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": false
         },
         "classes":
@@ -3920,7 +3980,7 @@
             "versionCode": 99355,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": false
         },
         "classes":
@@ -4026,7 +4086,7 @@
             "versionCode": 99280,
             "minSdkVersion": "21",
             "targetSdkVersion": "33",
-            "beta": true,
+            "beta": false,
             "usesSensor": false
         },
         "classes":
