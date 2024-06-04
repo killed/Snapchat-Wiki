@@ -1,4 +1,64 @@
 {
+    "12.89.0.40":
+    {
+        "info":
+        {
+            "version": "12.89.0.40",
+            "versionCode": 136622,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "cwt/zh",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "dkt/gutr",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "rs/otjr",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "qxx/cxqe",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "fyk/khby",
+                "fields":
+                {
+                    "name": "e",
+                    "value": [4, 103, -89, -65, 3, 126, 23, 46, 118, 21, 63, 25, -109, 76, -79, -22, -60, -120, 40, -74, 91, -50, -24, 97, 99, -58, 24, 117, -89, -50, -42, -6, -7, -27, 63, -91, -111, -54, -25, -10, 60, -42, -71, 40]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "b": "([B Ljava/lang/String;)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "i": "([B)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "ldjd/k",
+                "method": "a"
+            }
+        }
+    },
     "12.88.0.43":
     {
         "info":
