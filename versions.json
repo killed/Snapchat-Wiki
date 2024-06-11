@@ -1,4 +1,64 @@
 {
+    "12.90.0.46":
+    {
+        "info":
+        {
+            "version": "12.90.0.46",
+            "versionCode": 138222,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "dz/afsy",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "mebf/ln",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "gtw/v",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "kmka/mwb",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "asns/j",
+                "fields":
+                {
+                    "name": "e",
+                    "value": [91, -36, -2, 75, 45, -103, -101, -43, 57, -81, 115, 72, 14, -108, -118, -77, 87, 79, -109, -110, -38, 17, -54, -59, 32, 87, 73, 2, -125, -87, -65, 61, 81, -45, 59, -77, -82, 83, -108, 78, 86, -117, -36, 48, -71, 112, 105, 123]
+                },
+                "methods":
+                {
+                    "a": "([B)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "([B Ljava/lang/String;)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "fyh/kuh",
+                "method": "a"
+            }
+        }
+    },
     "12.89.0.40":
     {
         "info":
