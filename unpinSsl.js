@@ -91,7 +91,7 @@ Java.perform(function() {
             var found = false
             var array = 0
 
-            if (hostname == "us-central1-gcp.api.snapchat.com" || hostname == "asia-southeast1-gcp.api.snapchat.com") {
+            if (hostname == "us-central1-gcp.api.snapchat.com") {
                 var x1 = a1
                 var x2 = a2
                 var x3 = a3
@@ -177,6 +177,11 @@ Java.perform(function() {
                 var x1 = Java.array("byte", t1)
                 var x2 = Java.array("byte", t2)
                 var x3 = Java.array("byte", n3)
+            } else if (hostname == "asia-southeast1-gcp.api.snapchat.com") {
+                var x1 = d1;
+                var x2 = d2;
+                var x3 = d3;
+                found = true;
             }
 
             if (hostname == "aws-proxy-gcp.api.snapchat.com") {
