@@ -20,7 +20,7 @@
 
 * Automatically unpin ssl with the Magisk module [here](https://github.com/killed/Magisk-Snapchat-SSL-Unpin)
 
-* Hook the native signing `login` / `register` (v12) `x-snapchat-att` [here](https://github.com/killed/Snapchat-Wiki/blob/master/hookSigning.js)
+* Hook the native signing `login` / `register` (v12) `x-snapchat-att` [here](https://github.com/killed/Snapchat-Wiki/blob/master/hookSigning.js) (versions supported above)
 
 ## Disclaimer
 This project is in no way affiliated with, authorized, maintained, sponsored or endorsed by [Snapchat](https://www.snapchat.com) or any of its affiliates or subsidiaries. This is an independent project that utilizes [Snapchat's](https://www.snapchat.com) private API. Use at your own risk.
