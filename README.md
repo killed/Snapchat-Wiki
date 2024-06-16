@@ -22,5 +22,7 @@
 
 * Hook the native signing `login` / `register` (v12) `x-snapchat-att` [here](https://github.com/killed/Snapchat-Wiki/blob/master/hookSigning.js) (versions supported above)
 
+* `x-snapchat-att` signing bridge [here](https://github.com/killed/Snapchat-Wiki/blob/master/signingBridge.js) - open snapchat try login once then attach with the script (versions supported above) (`port will be 1234`) (only signs login) (`POST /sign : returns {"User-Agent": "...", "X-Snapchat-ATT: "..."}`)
+
 ## Disclaimer
 This project is in no way affiliated with, authorized, maintained, sponsored or endorsed by [Snapchat](https://www.snapchat.com) or any of its affiliates or subsidiaries. This is an independent project that utilizes [Snapchat's](https://www.snapchat.com) private API. Use at your own risk.
