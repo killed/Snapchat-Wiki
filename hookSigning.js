@@ -64,12 +64,12 @@ Java.perform(function() {
         for (var methodName in signingFunctions) {
             if (signingFunctions[methodName] === "(Ljava/lang/String; Ljava/lang/String;)[B") {
                 if (v11checked == 1) {
-                    signingClass[functionToHook].implementation = function(requestToken, endpoint) {
-                        var ret = this[functionToHook](requestToken, endpoint)
+                    signingClass[methodName].implementation = function(requestToken, endpoint) {
+                        var ret = this[methodName](requestToken, endpoint)
 
-                        console.log(`[?] [signingClass - ${functionToHook} - requestToken] --> ${requestToken}`)
-                        console.log(`[?] [signingClass - ${functionToHook} - endpoint] --> ${endpoint}`)
-                        console.log(`[?] [signingClass - ${functionToHook} - ret] --> ${base64.encodeToString(Java.array("byte", ret), 10).replace(/\n/g, "")}`)
+                        console.log(`[?] [signingClass - ${methodName} - requestToken] --> ${requestToken}`)
+                        console.log(`[?] [signingClass - ${methodName} - endpoint] --> ${endpoint}`)
+                        console.log(`[?] [signingClass - ${methodName} - ret] --> ${base64.encodeToString(Java.array("byte", ret), 10).replace(/\n/g, "")}`)
 
                         return ret
                     }
