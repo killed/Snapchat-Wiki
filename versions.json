@@ -1,4 +1,964 @@
 {
+    "13.11.0.42":
+    {
+        "info":
+        {
+            "version": "13.11.0.42",
+            "versionCode": 162322,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "hjix/g",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "rps/zw",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "rfv/fv",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "zgwq/vgtm",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "oluq/kktr",
+                "fields":
+                {
+                    "name": "a",
+                    "value": [25, -72, -104, 39, -115, -64, 108, -103, -103, -103, -63, 26, -51, -44, 30, -42, -7, -63, 27, 53, 52, 58, -85, -57, -46, -7, 6, 53, 31, 88, -6, 17, 103, 28, -42, 46, -99, -55, -85, 53, 19, 72, 63, 74, -123, 34, -23, 52]
+                },
+                "methods":
+                {
+                    "b": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "([B Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "g": "([B)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "sc/o",
+                "method": "a"
+            }
+        }
+    },
+    "13.10.0.40":
+    {
+        "info":
+        {
+            "version": "13.10.0.40",
+            "versionCode": 161122,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "pol/g",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "sdvq/tayu",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "nzgy/a",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "xdp/ohgn",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "obib/lzz",
+                "fields":
+                {
+                    "name": "a",
+                    "value": [-117, -47, 101, 29, 10, -85, -56, 101, 15, 0, -24, 31, -93, -34, -25, -109, -11, -66, 31, -31, -13, 87, -82, 80, 51, -34, -127, 78, -67, -88, 1, 109, -120, 71, -95, 70, -73, -109, -4, -114, 17, -93, -29, -32]
+                },
+                "methods":
+                {
+                    "b": "([B)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "([B Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "fir/dwa",
+                "method": "a"
+            }
+        }
+    },
+    "13.9.0.42":
+    {
+        "info":
+        {
+            "version": "13.9.0.42",
+            "versionCode": 159772,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "sg/fs",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "xde/zzb",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "dmem/w",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "cije/lwan",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "ahxo/pjh",
+                "fields":
+                {
+                    "name": "e",
+                    "value": [123, -75, 60, 106, -65, 73, 82, -40, -6, -102, -37, 81, 127, -32, -84, -101, -69, -78, -1, 127, -75, -31, -69, 48, 119, 33, -121, 30, -5, 98, 114, 74, 101, -47, -100, 52, 22, 56, -5, 107, -2, 121, 98, -48, -94, 90, 79, 47, 51, -82, -28, 101, 98, -43, 104, -9, -69, -121, -128, -92]
+                },
+                "methods":
+                {
+                    "a": "([B)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "([B Ljava/lang/String;)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "g": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "uv/btsz",
+                "method": "a"
+            }
+        }
+    },
+    "13.8.0.44":
+    {
+        "info":
+        {
+            "version": "13.8.0.44",
+            "versionCode": 158522,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "djnd/l",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "igfq/kemh",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "lyb/mm",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "zic/uv",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "pg/slw",
+                "fields":
+                {
+                    "name": "f",
+                    "value": [-59, 100, 106, 38, 77, 108, 65, -64, -45, 26, 41, 19, -52, -43, -62, 63, -16, 47, 96, 53, 27, 37, -2, 65, 21, -34, -24, -18, 29, -5, -3, -26, 17, -66, 71, -107, 64, -35, -51, 26, 97, 66, -34, -26, -101, 72, 29, -3, 28, -113, 8, 67, 123, 29, 111, -23]
+                },
+                "methods":
+                {
+                    "a": "([B Ljava/lang/String;)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "([B)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "mhiv/yya",
+                "method": "a"
+            }
+        }
+    },
+    "13.7.0.42":
+    {
+        "info":
+        {
+            "version": "13.7.0.42",
+            "versionCode": 157172,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "eq/on",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "sgj/j",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "bxx/o",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "bsm/s",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "apmc/i",
+                "fields":
+                {
+                    "name": "d",
+                    "value": [120, 121, 72, 104, 11, 100, 85, -55, -24, -2, 79, 70, -1, 120, 91, 36, -26, -42, 44, 66, -127, -79, -85, -80, 101, 28, 105, 15, -23, -97, -128, 9, 106, -114, -104, -98, -128, 19, -107, -67, -124, 91, -91, 52, -72, -64, 56, 94, -21, -61, 57, 61, 65, 40, 33, -118]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "([B)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "i": "([B Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "sglb/rn",
+                "method": "a"
+            }
+        }
+    },
+    "13.6.0.39":
+    {
+        "info":
+        {
+            "version": "13.6.0.39",
+            "versionCode": 155672,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "cjsa/nip",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "iter/nov",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "xail/wzsz",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "wbr/chry",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "ukdw/njj",
+                "fields":
+                {
+                    "name": "e",
+                    "value": [29, -103, -81, 72, 47, -123, 66, 111, 37, 77, -96, -87, 57, -117, 97, -10, -52, -104, 123, -29, 104, 57, -53, 11, -65, -27, 57, 19, -119, -20, -14, 124, 31, 48, 20, 86, 121, -125, 123, -93, 13, -29, 101, 35]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "h": "([B)[B",
+                    "i": "([B Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "vlzz/s",
+                "method": "a"
+            }
+        }
+    },
+    "13.5.0.41":
+    {
+        "info":
+        {
+            "version": "13.5.0.41",
+            "versionCode": 154522,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "kr/cfjn",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "xub/pqb",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "szb/p",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "goup/hhsg",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "db/kq",
+                "fields":
+                {
+                    "name": "i",
+                    "value": [-105, 3, 61, 121, 85, 40, -16, -122, -83, -87, 59, 31, -49, 2, -88, -103, 21, -120, -75, -128, 40, 17, 54, -9, -45, -57, 20, -43, -28, -45, 36, 98, -116, -91, -67, -60, -22, 38, 49, 79]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "([B)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "h": "([B Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "oj/b",
+                "method": "a"
+            }
+        }
+    },
+    "13.4.0.45":
+    {
+        "info":
+        {
+            "version": "13.4.0.45",
+            "versionCode": 153422,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "icjm/nvz",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "rq/ila",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "ugy/uhe",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "awfq/kfz",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "ikb/ritv",
+                "fields":
+                {
+                    "name": "d",
+                    "value": [-57, 76, -95, -12, -69, 112, -71, -28, 123, 41, 52, 50, 91, 65, -2, 107, -65, 126, 100, 23, 26, 38, -86, 102, -26, -83, -36, 15, -4, 54, 42, -127, 118, 39, -66, 15, 116, 53, -46, 93, 65, 102, -55, 68, -22, 16, 113, 10, -68, -1, -10, 119, -122, -66, 67, 16]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "b": "([B)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "([B Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "uoxq/akmm",
+                "method": "a"
+            }
+        }
+    },
+    "13.3.0.42":
+    {
+        "info":
+        {
+            "version": "13.3.0.42",
+            "versionCode": 151972,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "ceun/i",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "gbp/u",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "ghzs/pcx",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "xb/ev",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "pzu/aec",
+                "fields":
+                {
+                    "name": "c",
+                    "value": [40, 109, 19, -21, -79, 78, -55, -122, -127, -9, -103, -98, -99, -83, 112, 74, 14, 84, 35, -39, 93, 54, -51, -87, 102, -60, 105, -61, -114, 43, 35, 7, 26, 89, 63, -56, -63, -47, -100, 100]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "b": "([B)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "([B Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "wot/xu",
+                "method": "a"
+            }
+        }
+    },
+    "13.2.0.41":
+    {
+        "info":
+        {
+            "version": "13.2.0.41",
+            "versionCode": 150472,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "mkxg/bd",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "wgzf/yz",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "hgh/d",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "zs/nuvq",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "ti/ugl",
+                "fields":
+                {
+                    "name": "d",
+                    "value": [13, 69, 30, 106, 74, 127, -23, -119, 7, -62, -51, 30, 100, -114, 104, 75, -32, 127, 122, -119, 62, -55, -3, -63, 127, -45, 74, 89, 96, 64, -72, 38, 114, 80, 117, -7, 37, -12, -29, 46, -17, 87, 86, 36, -69, -80, 57, -55, 12, -119, -75, 100, 64, 67, -59, 75]
+                },
+                "methods":
+                {
+                    "a": "([B Ljava/lang/String;)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "g": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "h": "([B)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "gc/zf",
+                "method": "a"
+            }
+        }
+    },
+    "13.1.0.43":
+    {
+        "info":
+        {
+            "version": "13.1.0.43",
+            "versionCode": 149072,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "cx/y",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "vnbc/m",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "bdvk/mbs",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "qs/tj",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "tstw/upuk",
+                "fields":
+                {
+                    "name": "a",
+                    "value": [96, 112, 7, 87, -110, 0, 13, 115, 10, 70, 121, -6, -73, 92, -62, 74, 59, 18, -124, 95, 41, -94, -64, -58, 47, -45, 103, 73, -12, -40, 86, 21, 5, -127, 39, 117, 86, -75, 71, -68, -66, -119, -60, 7, -56, 54, -52, -3]
+                },
+                "methods":
+                {
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "([B)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "([B Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "kuau/i",
+                "method": "a"
+            }
+        }
+    },
+    "13.0.0.50":
+    {
+        "info":
+        {
+            "version": "13.0.0.50",
+            "versionCode": 147872,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "fbu/n",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "lrdj/iir",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "ljv/bcyc",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "nm/iq",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "bbwp/s",
+                "fields":
+                {
+                    "name": "c",
+                    "value": [-85, 9, -12, -18, 76, -86, 55, -111, 82, -3, 79, -115, 109, -68, -126, 45, -7, 120, 6, -14, 84, 87, -35, -33, 98, -33, -39, -37, 26, 38, 94, -98, 0, 91, 64, 24, -77, 60, -13, -127, -51, -123, -23, 121, -115, -45, -49, -31, -83, -118, 72, -32, -7, 38, -51, -128, -35, 69, -97, 26]
+                },
+                "methods":
+                {
+                    "a": "([B)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "([B Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "tdg/v",
+                "method": "a"
+            }
+        }
+    },
+    "13.0.0.40":
+    {
+        "info":
+        {
+            "version": "13.0.0.40",
+            "versionCode": 147372,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": true,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "fbu/n",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "lrdj/iir",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "ljv/bcyc",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "nm/iq",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "bbwp/s",
+                "fields":
+                {
+                    "name": "c",
+                    "value": [-85, 9, -12, -18, 76, -86, 55, -111, 82, -3, 79, -115, 109, -68, -126, 45, -7, 120, 6, -14, 84, 87, -35, -33, 98, -33, -39, -37, 26, 38, 94, -98, 0, 91, 64, 24, -77, 60, -13, -127, -51, -123, -23, 121, -115, -45, -49, -31, -83, -118, 72, -32, -7, 38, -51, -128, -35, 69, -97, 26]
+                },
+                "methods":
+                {
+                    "a": "([B)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "([B Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "tdg/v",
+                "method": "a"
+            }
+        }
+    },
+    "12.96.0.42":
+    {
+        "info":
+        {
+            "version": "12.96.0.42",
+            "versionCode": 146222,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "gdyp/w",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "wk/sg",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "rgxy/gjew",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "in/aj",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "je/yoz",
+                "fields":
+                {
+                    "name": "d",
+                    "value": [-25, -59, 62, 15, 57, 97, -15, 70, 89, 109, 106, 60, 58, 125, -52, -76, 66, 44, 127, -47, -106, 58, -69, 86, 1, 101, -88, 103, 65, 47, 120, -1, 68, 111, 111, 9, 70, -27, 110, -119, 56, -123, -22, 4]
+                },
+                "methods":
+                {
+                    "a": "([B)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "([B Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "ynrl/k",
+                "method": "a"
+            }
+        }
+    },
+    "12.95.1.0":
+    {
+        "info":
+        {
+            "version": "12.95.1.0",
+            "versionCode": 144822,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "ci/ui",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "eo/j",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "uky/ox",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "fci/syan",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "cdgj/rc",
+                "fields":
+                {
+                    "name": "a",
+                    "value": [76, 70, 76, 72, 62, -34, -18, 83, 58, 63, 0, 47, -55, -110, 95, -55, 12, 97, -34, 96, 35, 95, -56, 90, -103, -123, 38, 73, 95, 91, 46, 37, 90, -70, -78, 76, 97, -35, -38, 61, -64, 92, 96, -82, -117, 89, 34, 26, -16, -114, 110, -96]
+                },
+                "methods":
+                {
+                    "b": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "c": "([B)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "h": "([B Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "fwr/gq",
+                "method": "a"
+            }
+        }
+    },
+    "12.94.0.36":
+    {
+        "info":
+        {
+            "version": "12.94.0.36",
+            "versionCode": 143472,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "33",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "gmk/b",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "kc/kqae",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "qvb/kxpd",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "tk/j",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "kd/q",
+                "fields":
+                {
+                    "name": "c",
+                    "value": [0, -26, 4, 81, -46, 27, 42, 63, 116, -3, 99, -40, -101, 126, -102, 19, -127, 67, -75, 32, 96, 118, 11, -68, 20, -101, 95, -111, -23, -23, -124, -29, 22, 86, 106, -72, 29, -54, 29, 40, 29, -109, -28, -49, -89, 71, -47, -43]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "f": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "([B Ljava/lang/String;)[B",
+                    "i": "([B)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "puxr/l",
+                "method": "a"
+            }
+        }
+    },
     "12.93.0.43":
     {
         "info":
