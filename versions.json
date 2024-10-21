@@ -1,4 +1,64 @@
 {
+    "13.12.0.37":
+    {
+        "info":
+        {
+            "version": "13.12.0.37",
+            "versionCode": 163422,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "aiwm/qudf",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "pm/ix",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "we/n",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "dlel/gl",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "wbfa/gym",
+                "fields":
+                {
+                    "name": "f",
+                    "value": [38, 33, -1, -4, -115, -30, 44, 71, -38, -94, 10, 27, 56, -88, -31, 123, 27, -1, -97, -53, -104, -98, 97, 38, -36, -124, 65, 118, 70, 44, -94, 75, -120, -121, -40, -101, 3, -49, -110, 27, 97, 66, -69, 90, 52, 120, -94, 36, 22, -66, -128, -83, -74, -25, -43, 116, 11, -8, 42, -115, -120, 36, -27, -126]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "b": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "c": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "d": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "e": "([B)[B",
+                    "g": "([B Ljava/lang/String;)[B",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)[B"
+                }
+            },
+            "sensor":
+            {
+                "class": "uxqj/c",
+                "method": "a"
+            }
+        }
+    },
     "13.11.0.42":
     {
         "info":
