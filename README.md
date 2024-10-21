@@ -4,9 +4,9 @@
 
 [Wiki](https://github.com/killed/Snapchat-Wiki/wiki)
 
-# Information
+# Android
 
-* [Native detection](https://github.com/killed/Snapchat-Wiki/blob/master/DETECTION.md)
+* [Native detection](https://github.com/killed/Snapchat-Wiki/blob/master/Android/DETECTION.md)
 
 * Version `12.33*` and below don't use any sensor data
 
@@ -18,13 +18,13 @@
 
 * Use [StrongRFrida](https://github.com/killed/StrongRMagiskFrida) to bypass frida detection
 
-* To unpin ssl use [Mitmproxy](https://mitmproxy.org/) and this [script](https://github.com/killed/Snapchat-Wiki/blob/master/unpinSsl.js)
+* To unpin ssl use [Mitmproxy](https://mitmproxy.org/) and this [script](https://github.com/killed/Snapchat-Wiki/blob/master/Android/unpinSsl.js)
 
 * Automatically unpin ssl with the Magisk module [here](https://github.com/killed/Magisk-Snapchat-SSL-Unpin)
 
-* Hook the native signing (v11 & v12) `x-snapchat-att` [here](https://github.com/killed/Snapchat-Wiki/blob/master/hookSigning.js) (versions supported above)
+* Hook the native signing (v11 & v12) `x-snapchat-att` [here](https://github.com/killed/Snapchat-Wiki/blob/master/Android/hookSigning.js) (versions supported above)
 
-* `x-snapchat-att` signing bridge [here](https://github.com/killed/Snapchat-Wiki/blob/master/signingBridge.js) - open snapchat try login once then attach with the script (versions supported above) (`port will be 1234`)
+* `x-snapchat-att` signing bridge [here](https://github.com/killed/Snapchat-Wiki/blob/master/Android/signingBridge.js) - open snapchat try login once then attach with the script (versions supported above) (`port will be 1234`)
 
 ```
 POST IP:1234/sign
@@ -34,5 +34,5 @@ POST IP:1234/sign
 }
 ```
 
-## Disclaimer
+# Disclaimer
 This project is in no way affiliated with, authorized, maintained, sponsored or endorsed by [Snapchat](https://www.snapchat.com) or any of its affiliates or subsidiaries. This is an independent project that utilizes [Snapchat's](https://www.snapchat.com) private API. Use at your own risk.
