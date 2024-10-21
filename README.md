@@ -6,6 +6,8 @@
 
 # Information
 
+* [Native detection](https://github.com/killed/Snapchat-Wiki/blob/master/detection.md)
+
 * Version `12.33*` and below don't use any sensor data
 
 * Versions -
