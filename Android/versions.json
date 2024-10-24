@@ -1,4 +1,64 @@
 {
+    "13.13.0.36":
+    {
+        "info":
+        {
+            "version": "13.13.0.36",
+            "versionCode": 164572,
+            "minSdkVersion": "21",
+            "targetSdkVersion": "34",
+            "beta": false,
+            "usesSensor": true
+        },
+        "classes":
+        {
+            "intOne":
+            {
+                "class": "ecr/va",
+                "method": "a"
+            },
+            "intTwo":
+            {
+                "class": "iy/yco",
+                "method": "a"
+            },
+            "location":
+            {
+                "class": "yly/m",
+                "method": "a"
+            },
+            "deviceToken":
+            {
+                "class": "yukl/dc",
+                "method": "a"
+            },
+            "signing":
+            {
+                "class": "jg/jl",
+                "fields":
+                {
+                    "name": "f",
+                    "value": [-24, -23, -10, 94, -18, -123, 36, 105, -81, -105, -101, -1, 41, 49, -63, 34, -85, -41, 94, 90, -53, -30, -11, -94, 45, -69, 63, -38, -20, -15, 50, -52, -126, 83, -119, 60, -123, -109, -67, -1, 79, -104, -21, 53, -26, 105, -60, 122, 70, -69, 85, -126]
+                },
+                "methods":
+                {
+                    "a": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "b": "(Ljava/lang/String; Ljava/lang/String; I)[B",
+                    "c": "([B)[B",
+                    "d": "([B Ljava/lang/String;)[B",
+                    "e": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "g": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;",
+                    "h": "(Ljava/lang/String; Ljava/lang/String;)[B",
+                    "i": "(Ljava/lang/String; Ljava/lang/String;)Ljava/lang/String;"
+                }
+            },
+            "sensor":
+            {
+                "class": "ekbj/ost",
+                "method": "a"
+            }
+        }
+    },
     "13.12.0.37":
     {
         "info":
