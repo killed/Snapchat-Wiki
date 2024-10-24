@@ -8,6 +8,8 @@
 
 * Check if your device is flagged/detected with [this](https://github.com/killed/Snapchat-Wiki/releases/tag/v13.12.0.37) apk (`v13.12.0.37`)
 
+<img src="https://i.imgur.com/h1HJuIm.png" height="300"> <img src="https://i.imgur.com/QPS3goP.png" height="300">
+
 * [Native detection](https://github.com/killed/Snapchat-Wiki/blob/master/Android/DETECTION.md)
 
 * Version `12.33*` and below don't use any sensor data
