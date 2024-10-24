@@ -30,11 +30,22 @@
 
 * `x-snapchat-att` signing bridge [here](https://github.com/killed/Snapchat-Wiki/blob/master/Android/signingBridge.js) - open snapchat try login once then attach with the script (versions supported above) (`port will be 1234`)
 
-```
-POST IP:1234/sign
+### Signing Bridge
 
+* POST `IP:1234/sign`
+
+Request
+```json
 {
     "endpoint": "/snap.security.ArgosService/GetTokens"
+}
+```
+
+Response
+```json
+{
+    "User-Agent": "Snapchat/13.12.0.37 (Pixel 6 Pro; Android 12#8353555#32; gzip) V/MUSHROOM grpc-c++/1.48.0 grpc-c/26.0.0 (android; cronet_http)",
+    "X-Snapchat-ATT": "CgkYARVL+k+6CAo........................................................................................................................................................................................................................................................................................................................................................................................."
 }
 ```
 
